@@ -18,7 +18,7 @@ body {
     justify-content: center;
     height: 100vh;
     width: 100vw;
-    background: linear-gradient(45deg, #e7e7de, #008891, #00587a, #0f3057);
+    background: linear-gradient(45deg, #e7e7de, #FF5858, #00587a, #2D2652);
     background-size: 300% 300%;
     animation: colors 15s ease infinite;
 }
@@ -50,8 +50,6 @@ body {
     text-align: right;
     margin-top: 5px;
 }
-
-
 
 @keyframes colors{
     0% {
